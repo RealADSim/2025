@@ -205,7 +205,6 @@ border:0px;
 }
 .default-bg a,
 .transprant-bg a {
-	color: #ffffff;
 	text-decoration: underline;
 }
 .default-bg a:hover,

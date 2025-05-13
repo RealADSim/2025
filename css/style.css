@@ -214,7 +214,6 @@ border:0px;
 }
 .default-bg a,
 .transprant-bg a {
-	color: #ffffff;
 	text-decoration: underline;
 }
 .default-bg a:hover,
@@ -1022,3 +1021,9 @@ height: 100%;
 background: #CCCCCC none repeat scroll 0% 0% / cover;
 transform: skewY(3deg);
 z-index: -1;}
+
+.custom-speakers-a-style{
+	display: inline-block;
+    height: 40px;
+    line-height: 40px;
+}
