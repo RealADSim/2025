@@ -138,7 +138,14 @@ We are holding two tracks in the workshop competitions:
 
 ## 💰 **Award** {#award}
 
-## :trophy: **Competition Winners** {#winners}
+Each competition will have the following awards.
+
+- Innovation Award: $9,000
+- utstanding Champion: $9,000
+- Honorable Runner-up: $3,000
+
+
+## 🏆 **Competition Winners** {#winners}
 <!-- 
 Congratulations to the challenge winners -- **HRI**!
 
