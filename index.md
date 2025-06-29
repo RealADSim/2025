@@ -35,20 +35,19 @@ Join us on **17 Oct 2025** from **12:00 - 17:45 PDT**
 ---
 
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
-<!-- - **01 Feb 2025 (00:00 UTC) ---** Challenge Development Phase **Opens** (Val)
-- **01 Mar 2025 (00:00 UTC) ---** Challenge Final Phase **Opens** (Test)
-- **21 Mar 2025 (23:59 UTC) ---** Challenge Submission **Closes**
-- **01 Apr 2025 ---** Method Description Submission
-- **7 May 2025 ---** Invited Talk Notification
-- **12 Jun 2025 ---** MDEC Workshop @ CVPR 2025 -->
-                                               
+
+- **30 Jun 2025 (00:00 UTC) ---** Challenge Release
+- **31 Aug 2025 (00:00 UTC) ---** Challenge Submission Due
+- **05 Sep 2025 (00:00 UTC) ---** Release Results & Submit Technical Report
+- **20 Sep 2025 (00:00 UTC) ---** Technical Report Due
+
 ---
 
 ## :calendar: **Schedule** {#schedule}
 
-The workshop will take place on **17 Oct 2025** from **12:00 - 17:45 PDT**.
+The workshop will take place on **19 Oct 2025** from **12:00 - 17:45 PDT**.
 
-> **NOTE**: Times are shown in **Pacific Daylight Time**. 
+> **NOTE**: Times are shown in **Hawaii Standard Time**. 
 Please take this into account if you plan to join the workshop virtually.
 
 | Time (PDT)    | Event                                                        |
@@ -128,7 +127,7 @@ We are holding two tracks in the workshop competitions:
 
 ## 💰 **Award** {#award}
 
-Each competition will have the following awards.
+Each competition will have the following awards:
 
 - Innovation Award: $9,000
 - utstanding Champion: $9,000
