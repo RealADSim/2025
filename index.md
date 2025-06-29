@@ -27,7 +27,11 @@ Join us on **17 Oct 2025** from **12:00 - 17:45 PDT**
 <img src="assets/imgs/teaser_right.jpg" alt="teaser_right.jpg" style="width: 49%; display: inline-block; vertical-align: top;">
 
 ## :page_facing_up: **Paper**
-<!-- [![paper](assets/imgs/paper_cvpr2025.jpeg)](https://arxiv.org/abs/2504.17787) -->
+[![paper](assets/imgs/paper1.png)](https://arxiv.org/abs/2412.05256)
+
+[![paper](assets/imgs/paper2.png)](https://arxiv.org/abs/2502.15635)
+
+[![paper](assets/imgs/paper3.png)](https://arxiv.org/abs/2412.01718)
 
 ## :tv: **Video**
 
