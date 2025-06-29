@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 
 #baseurl: /RealADSim
-baseurl: /workshop_test
+baseurl: /2025
 
 # Remove `View on GitHub` & Download buttons
 show_downloads: false
