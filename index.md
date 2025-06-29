@@ -130,9 +130,10 @@ We are holding two tracks in the workshop competitions:
 Each competition will have the following awards:
 
 - Innovation Award: $9,000
-- utstanding Champion: $9,000
+- Outstanding Champion: $9,000
 - Honorable Runner-up: $3,000
 
+Winners will announce at ICCV2025 Workshop.
 
 ## 🏆 **Competition Winners** {#winners}
 <!-- 
