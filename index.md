@@ -251,6 +251,13 @@ Please feel free to reach out with any questions, concerns, or feedback using th
 </figure>
 
 <figure>
+    <a href="https://yichonglu.github.io/">
+    <img class="img-author" src="assets/imgs/authors/Yichong_Lu.jpg" alt="Yichong Lu"/></a>
+    <b><br><a href="https://yichonglu.github.io/">Yichong Lu</a>
+    <br>Zhejiang University</b>
+</figure>
+
+<figure>
     <a href="https://yimingli-page.github.io/">
     <img class="img-author" src="assets/imgs/authors/yiming_li.jpeg" alt="Yiming Li"/></a>
     <b><br><a href="https://yimingli-page.github.io/">Yiming Li</a>
@@ -272,6 +279,13 @@ Please feel free to reach out with any questions, concerns, or feedback using th
 </figure>
 
 <figure>
+    <a href="https://www.aminer.cn/profile/liu-bingbing/562d234145cedb3398d63523">
+    <img class="img-author" src="assets/imgs/authors/Bingbing_Liu.png" alt="Bingbing Liu"/></a>
+    <b><br><a href="https://www.aminer.cn/profile/liu-bingbing/562d234145cedb3398d63523">Bingbing Liu</a>
+    <br>Huawei</b>
+</figure>
+
+<figure>
     <a href="https://www.cvlibs.net/">
     <img class="img-author" src="assets/imgs/authors/Andreas.jpg" alt="Andreas Geiger"/></a>
     <b><br><a href="https://www.cvlibs.net/">Andreas Geiger</a>
@@ -289,5 +303,7 @@ Please feel free to reach out with any questions, concerns, or feedback using th
 **Tracks**
 
 We are holding two tracks in the workshop competitions:
-- Track 1: Extrapolated Urban Novel View Synthesis
-- Track 2: Autonomous Driving in a Photorealistic Simulator
+- [Track 1: Extrapolated Urban Novel View Synthesis](https://huggingface.co/spaces/XDimLab/ICCV2025-RealADSim-NVS)
+    In this track, we want to answer the question: how well can we Render? While NVS methods have made significant progress in generating photorealistic urban scenes, their performance still lags in extrapolated viewpoints when only a limited viewpoint is provided during training. However, extrapolated viewpoints are essential for closed-loop simulation. Improving the accuracy and consistency of NVS across diverse viewing angles is critical for ensuring that these simulators provide reliable environments for driving evaluation.
+- [Track 2: Autonomous Driving in a Photorealistic Simulator](https://huggingface.co/spaces/XDimLab/ICCV2025-RealADSim-ClosedLoop)
+    In this track, we want to answer the question: how well can we Drive? Despite challenges in extrapolated viewpoint rendering, existing methods enable photorealistic simulators with reasonable performance when trained on dense views. These NVS-based simulators allow autonomous driving models to be tested in a fully closed-loop manner, bridging the gap between real-world data and interactive evaluation. This shift allows for benchmarking autonomous driving algorithms under realistic conditions, overcoming the limitations of static datasets.
