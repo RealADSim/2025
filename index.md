@@ -299,18 +299,20 @@ Please feel free to reach out with any questions, concerns, or feedback using th
     <br>Huawei</b>
 </figure>
 
-<figure>
-    <a href="https://yimingli-page.github.io/">
-    <img class="img-author" src="assets/imgs/authors/yiming_li.jpeg" alt="Yiming Li"/></a>
-    <b><br><a href="https://yimingli-page.github.io/">Yiming Li</a>
-    <br>NVIDIA</b>
-</figure>
+
 
 <figure>
     <a href="https://openreview.net/profile?id=%7EZiqian_Ni1">
     <img class="img-author" src="assets/imgs/authors/ziqian_ni.jpg" alt="Ziqian Ni"/></a>
     <b><br><a href="https://openreview.net/profile?id=%7EZiqian_Ni1">Ziqian Ni</a>
-    <br>NVIDIA</b>
+    <br>Cainiao</b>
+</figure>
+
+<figure>
+    <a href="https://yimingli-page.github.io/">
+    <img class="img-author" src="assets/imgs/authors/yiming_li.jpeg" alt="Yiming Li"/></a>
+    <b><br><a href="https://yimingli-page.github.io/">Yiming Li</a>
+    <br>NVIDIA&NYU</b>
 </figure>
 
 <figure>
