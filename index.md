@@ -18,7 +18,7 @@ Join us on **19 Oct 2025** from **12:00 - 17:45 HST**
 
 ## :page_facing_up: **Paper**
 [![paper](assets/imgs/paper3.png)](https://arxiv.org/abs/2412.01718)
-<small>Zhou, H., ..., Geiger, A., & Liao, Y. (2024). HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving. ArXiv, abs/2412.01718.</small>
+<small>Zhou, H., ...,  Liao, Y. (2024). HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving.</small>
 
 [![paper](assets/imgs/paper1.png)](https://arxiv.org/abs/2412.05256)
 
