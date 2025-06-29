@@ -21,9 +21,10 @@ Join us on **19 Oct 2025** from **12:00 - 17:45 HST**
 <small>Zhou, H., ...,  Liao, Y. (2024). HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving.</small>
 
 [![paper](assets/imgs/paper1.png)](https://arxiv.org/abs/2412.05256)
+<small>Han, X., ..., Li, Y. (2024). Extrapolated Urban View Synthesis Benchmark.</small>
 
 [![paper](assets/imgs/paper2.png)](https://arxiv.org/abs/2502.15635)
-
+<small>Ni, Z., ..., Yang, S. (2025). Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis.</small>
 
 [//]: # (## :tv: **Video**)
 
