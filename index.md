@@ -33,9 +33,10 @@ Join us on **17 Oct 2025** from **12:00 - 17:45 PDT**
 
 [![paper](assets/imgs/paper3.png)](https://arxiv.org/abs/2412.01718)
 
-## :tv: **Video**
+[//]: # (## :tv: **Video**)
 
-<!-- #### Coming soon... -->
+[//]: # ()
+[//]: # (<!-- #### Coming soon... -->)
 
 ## :newspaper: **News** {#news}
 - **11 Mar 2025 ---** :rocket: Workshop website is launched.
@@ -134,6 +135,8 @@ We are holding two tracks in the workshop competitions:
     In this track, we want to answer the question: how well can we Drive? Despite challenges in extrapolated viewpoint rendering, existing methods enable photorealistic simulators with reasonable performance when trained on dense views. These NVS-based simulators allow autonomous driving models to be tested in a fully closed-loop manner, bridging the gap between real-world data and interactive evaluation. This shift allows for benchmarking autonomous driving algorithms under realistic conditions, overcoming the limitations of static datasets.
 
 ---
+
+## 💰 **Award** {#award}
 
 ## :trophy: **Competition Winners** {#winners}
 <!-- 
@@ -279,16 +282,9 @@ Please feel free to reach out with any questions, concerns, or feedback using th
 </figure>
 
 <figure>
-    <a href="https://yimingli-page.github.io/">
-    <img class="img-author" src="assets/imgs/authors/yiming_li.jpeg" alt="Yiming Li"/></a>
-    <b><br><a href="https://yimingli-page.github.io/">Yiming Li</a>
-    <br>NVIDIA</b>
-</figure>
-
-<figure>
-    <a href="https://openreview.net/profile?id=~Jiansheng_Wei1">
-    <img class="img-author" src="assets/imgs/authors/jiansheng_wei.png" alt="Jiansheng Wei"/></a>
-    <b><br><a href="https://openreview.net/profile?id=~Jiansheng_Wei1">Jiansheng Wei</a>
+    <a href="https://www.aminer.cn/profile/liu-bingbing/562d234145cedb3398d63523">
+    <img class="img-author" src="assets/imgs/authors/Bingbing_Liu.png" alt="Bingbing Liu"/></a>
+    <b><br><a href="https://www.aminer.cn/profile/liu-bingbing/562d234145cedb3398d63523">Bingbing Liu</a>
     <br>Huawei</b>
 </figure>
 
@@ -300,10 +296,24 @@ Please feel free to reach out with any questions, concerns, or feedback using th
 </figure>
 
 <figure>
-    <a href="https://www.aminer.cn/profile/liu-bingbing/562d234145cedb3398d63523">
-    <img class="img-author" src="assets/imgs/authors/Bingbing_Liu.png" alt="Bingbing Liu"/></a>
-    <b><br><a href="https://www.aminer.cn/profile/liu-bingbing/562d234145cedb3398d63523">Bingbing Liu</a>
+    <a href="https://openreview.net/profile?id=~Jiansheng_Wei1">
+    <img class="img-author" src="assets/imgs/authors/jiansheng_wei.png" alt="Jiansheng Wei"/></a>
+    <b><br><a href="https://openreview.net/profile?id=~Jiansheng_Wei1">Jiansheng Wei</a>
     <br>Huawei</b>
+</figure>
+
+<figure>
+    <a href="https://yimingli-page.github.io/">
+    <img class="img-author" src="assets/imgs/authors/yiming_li.jpeg" alt="Yiming Li"/></a>
+    <b><br><a href="https://yimingli-page.github.io/">Yiming Li</a>
+    <br>NVIDIA</b>
+</figure>
+
+<figure>
+    <a href="https://openreview.net/profile?id=%7EZiqian_Ni1">
+    <img class="img-author" src="assets/imgs/authors/ziqian_ni.jpg" alt="Ziqian Ni"/></a>
+    <b><br><a href="https://openreview.net/profile?id=%7EZiqian_Ni1">Ziqian Ni</a>
+    <br>NVIDIA</b>
 </figure>
 
 <figure>
