@@ -11,16 +11,6 @@ description: RealADSim @ ICCV 2025
 Join us on **17 Oct 2025** from **12:00 - 17:45 PDT**
 {: .text-center}
 
-<!-- <div class="container">
-<img class="img-syns" src="assets/imgs/syns/image_0026.png" alt="image_0026"/>
-<img class="img-syns" src="assets/imgs/syns/image_0254.png" alt="image_0254"/>
-<img class="img-syns" src="assets/imgs/syns/image_0698.png" alt="image_0698"/>
-
-<img class="img-syns" src="assets/imgs/syns/depth_0026.png" alt="depth_0026"/>
-<img class="img-syns" src="assets/imgs/syns/depth_0254.png" alt="depth_0254"/>
-<img class="img-syns" src="assets/imgs/syns/depth_0698.png" alt="depth_0698"/>
-</div> -->
-
 **Introduction:** Given the safety concerns and high costs associated with real-world autonomous driving testing, high-fidelity simulation techniques have become crucial for advancing the capabilities of autonomous systems. While classical driving simulators offer closed-loop evaluation, they still exhibit a domain gap compared to the real world. In contrast, offline-collected driving datasets avoid this gap but struggle to provide closed-loop evaluation. Novel View Synthesis (NVS) has recently opened up new possibilities by enabling closed-loop driving simulation directly from real-world data, which has attracted great attention. This creates a promising alternative for evaluating autonomous driving algorithms in dynamic, interactive environments. However, while NVS-based simulation unlocks new opportunities, there are two key questions that are yet to be answered: 1) How well can we render? 2) How well can we drive?
 
 <img src="assets/imgs/teaser_left.jpg" alt="teaser_left.jpg" style="width: 49%; display: inline-block; vertical-align: top;">
