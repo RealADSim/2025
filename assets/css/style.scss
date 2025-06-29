@@ -1,0 +1,71 @@
+---
+---
+
+$header-bg-color: #2469bd;
+$header-bg-color-secondary: #0bc3c3;
+$section-headings-color: #4244aa;
+
+@import "{{ site.theme }}";
+@import 'jekyll-theme-cayman';
+
+figure {
+  display: inline-block;
+  font-size: small;
+}
+
+a {
+  color: $header-bg-color;
+  display: inline-block;
+}
+
+.embed-container {
+  display: inline-block;
+}
+
+.container {
+  width: 105%;
+  padding: 5px;
+  text-align: center;
+  text-align-last: center;
+  -moz-text-align-last: justify;
+}
+
+.img-author {
+  width:190px;
+  height:190px;
+  object-fit:cover;
+  border-radius:50%;
+  filter: drop-shadow(0 0 0.75rem #000000);
+}
+
+.img-syns {
+  width:32%;
+  height:32%;
+  border-radius: 15px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.rounded-rect {
+  border-radius: 15px;
+}
+
+.best {
+  color: blue
+}
+
+.speakers-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* This will center the speakers in the container */
+  align-items: flex-start;
+  gap: 40px; /* This creates space between the speaker blocks */
+}
+
+.speakers-container figure {
+  margin: 0; /* This removes the extra side margins */
+  width: 175px; /* This sets each speaker block to the width of the image */
+  text-align: center;
+}
