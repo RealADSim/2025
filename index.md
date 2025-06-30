@@ -137,7 +137,7 @@ To participate in the competition, both automatic registration and manual verifi
 
 ---
 
-## 💰 **Award** {#award}
+## 💰 **Awards** {#award}
 
 Each competition will have the following awards:
 
