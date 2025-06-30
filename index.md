@@ -129,6 +129,7 @@ We are holding two tracks in the workshop competitions:
     In this track, we want to answer the question: how well can we Drive? Despite challenges in extrapolated viewpoint rendering, existing methods enable photorealistic simulators with reasonable performance when trained on dense views. These NVS-based simulators allow autonomous driving models to be tested in a fully closed-loop manner, bridging the gap between real-world data and interactive evaluation. This shift allows for benchmarking autonomous driving algorithms under realistic conditions, overcoming the limitations of static datasets.
 
 **How to Participate**
+
 To participate in the competition, both automatic registration and manual verification are required:
 1. Click the "Login with Huggingface" button.
 2. Click the "Register" button and complete the registration form. After this automatic registration step, the "Submission Information" page will become accessible. It provides detailed instructions on how to run local tests and submit your proposal.
