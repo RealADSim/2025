@@ -16,6 +16,7 @@ Join us on **19 Oct 2025** from **12:00 - 17:45 HST**
 <img src="assets/imgs/teaser_left.jpg" alt="teaser_left.jpg" style="width: 49%; display: inline-block; vertical-align: top;">
 <img src="assets/imgs/teaser_right.jpg" alt="teaser_right.jpg" style="width: 49%; display: inline-block; vertical-align: top;">
 
+<!-- 
 ## :page_facing_up: **Paper**
 [![paper](assets/imgs/paper3.png)](https://arxiv.org/abs/2412.01718)
 <small>Zhou, H., ...,  Liao, Y. (2024). HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving.</small>
@@ -25,6 +26,7 @@ Join us on **19 Oct 2025** from **12:00 - 17:45 HST**
 
 [![paper](assets/imgs/paper1.png)](https://arxiv.org/abs/2412.05256)
 <small>Han, X., ..., Li, Y. (2024). Extrapolated Urban View Synthesis Benchmark.</small>
+-->
 
 
 [//]: # (## :tv: **Video**)
@@ -33,8 +35,8 @@ Join us on **19 Oct 2025** from **12:00 - 17:45 HST**
 [//]: # (<!-- #### Coming soon... -->)
 
 ## :newspaper: **News** {#news}
-- **11 Mar 2025 ---** :rocket: Workshop website is launched.
-- **11 Mar 2025 ---** :gift: POETS write: Hello ICCV' 25!
+- **30 Jun 2025 ---** :rocket: The Workshop website is launched.
+- **11 Mar 2025 ---** :gift: The Workshop is accepted!
 
 ---
 
@@ -49,21 +51,20 @@ Join us on **19 Oct 2025** from **12:00 - 17:45 HST**
 
 ## :calendar: **Schedule** {#schedule}
 
-The workshop will take place on **19 Oct 2025** from **12:00 - 17:45 PDT**.
+The workshop will take place on **19 Oct 2025** from **09:00 - 12:15 HST**.
 
 > **NOTE**: Times are shown in **Hawaii Standard Time**. 
 Please take this into account if you plan to join the workshop virtually.
 
 | Time (PDT)    | Event                                                        |
 |---------------|--------------------------------------------------------------|
-| 13:00 - 13:10 | Welcome & Introduction                                       |
-| 13:10 - 13:40 | Keynote-1: **Yue Wang**                                      |
-| 13:40 - 14:10 | Keynote-2: **Peter Kontschieder**                            |
-| 14:10 - 15:10 | Awards / Challenge winner Presentation                       |
-| 15:10 - 16:10 | Poster Session / Tea break                                   |
-| 16:10 - 16:40 | Keynote-3: **Yuexin Ma**                                     |
-| 16:40 - 17:10 | Keynote-4: **Jyh-Jing Hwang**                                |
-| 17:10 - 17:20 | Closing remarks                                              |
+| 09:00 - 09:10 | Welcome & Introduction                                       |
+| 09:10 - 09:40 | Keynote-1                                                    |
+| 09:40 - 10:10 | Keynote-2                                                    |
+| 10:10 - 11:10 | Awards / Challenge winner Presentation                       |
+| 11:10 - 11:40 | Keynote-3:                                                   |
+| 11:40 - 12:10 | Keynote-4:                                                   |
+| 12:10 - 12:15 | Closing remarks                                              |
 
 ---
 
@@ -99,16 +100,16 @@ Please take this into account if you plan to join the workshop virtually.
 </div>
 
 [**Yue Wang**](https://yuewang.xyz/)
-Yue Wang is an Assistant Professor at USC CS, leading the Geometry, Vision, and Learning Lab. His current focus includes simulation, perception, and decision making. He obtained the Ph.D. degree from MIT EECS in 2022.
+ is an Assistant Professor at USC CS, leading the Geometry, Vision, and Learning Lab. His current focus includes simulation, perception, and decision making. He obtained the Ph.D. degree from MIT EECS in 2022.
 
 [**​Yuexin Ma**](https://yuexinma.me/)
-Yuexin Ma is an Assistant Professor in SIST, Shang- haiTech University. She received the PhD degree from the University of Hong Kong in 2019. Her current research focuses on scene understanding, multi-modal learning, autonomous driving, and embodied AI.
+ is an Assistant Professor in SIST, Shang- haiTech University. She received the PhD degree from the University of Hong Kong in 2019. Her current research focuses on scene understanding, multi-modal learning, autonomous driving, and embodied AI.
 
 [**Jyh-Jing Hwang**](https://jyhjinghwang.github.io/)
-Jyh-Jing Hwang is a Research Scientist at Waymo Research, a technical lead for end-to-end autonomous driving. He received his Ph.D. degree in Computer and Information Science from the University of Pennsylvania.
+ is a Research Scientist at Waymo Research, a technical lead for end-to-end autonomous driving. He received his Ph.D. degree in Computer and Information Science from the University of Pennsylvania.
 
 [**Peter Kontschieder**](https://www.linkedin.com/in/peter-kontschieder-2a6410134/)
-Peter Kontschieder is the Director of Research at Meta. He received his PhD in 2013 from Graz University of Technology. His research interests include photorealistic 3D scene reconstruction, semantic scene understanding, image-based 3D modeling, and generative models for 3D synthesis.
+ is the Director of Research at Meta. He received his PhD in 2013 from Graz University of Technology. His research interests include photorealistic 3D scene reconstruction, semantic scene understanding, image-based 3D modeling, and generative models for 3D synthesis.
 
 ---
 
@@ -316,7 +317,7 @@ Please feel free to reach out with any questions, concerns, or feedback using th
     <a href="https://yimingli-page.github.io/">
     <img class="img-author" src="assets/imgs/authors/yiming_li.jpeg" alt="Yiming Li"/></a>
     <b><br><a href="https://yimingli-page.github.io/">Yiming Li</a>
-    <br>NVIDIA&NYU</b>
+    <br>NVIDIA & NYU</b>
 </figure>
 
 <figure>
