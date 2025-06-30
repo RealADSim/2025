@@ -42,10 +42,10 @@ Join us on **19 Oct 2025** from **12:00 - 17:45 HST**
 
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
 
-- **30 Jun 2025 (00:00 UTC) ---** Challenge Release
-- **31 Aug 2025 (00:00 UTC) ---** Challenge Submission Due
-- **05 Sep 2025 (00:00 UTC) ---** Release Results & Submit Technical Report
-- **20 Sep 2025 (00:00 UTC) ---** Technical Report Due
+- **30 Jun 2025 ---** Challenge Release
+- **31 Aug 2025 ---** Challenge Submission Due
+- **05 Sep 2025 ---** Release Results & Submit Technical Report
+- **20 Sep 2025 ---** Technical Report Due
 
 ---
 
@@ -140,7 +140,7 @@ Each competition will have the following awards:
 
 Winners will announce at ICCV2025 Workshop.
 
-## 🏆 **Competition Winners** {#winners}
+[//]: # (## 🏆 **Competition Winners** {#winners})
 <!-- 
 Congratulations to the challenge winners -- **HRI**!
 
