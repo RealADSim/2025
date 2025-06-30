@@ -49,7 +49,7 @@ Join us on **19 Oct 2025** from **12:00 - 17:45 HST**
 
 ---
 
-## :calendar: **Schedule** {#schedule}
+## :calendar: **Tentative Schedule** {#schedule}
 
 The workshop will take place on **19 Oct 2025** from **09:00 - 12:15 HST**.
 
