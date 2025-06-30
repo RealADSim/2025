@@ -128,6 +128,12 @@ We are holding two tracks in the workshop competitions:
 
     In this track, we want to answer the question: how well can we Drive? Despite challenges in extrapolated viewpoint rendering, existing methods enable photorealistic simulators with reasonable performance when trained on dense views. These NVS-based simulators allow autonomous driving models to be tested in a fully closed-loop manner, bridging the gap between real-world data and interactive evaluation. This shift allows for benchmarking autonomous driving algorithms under realistic conditions, overcoming the limitations of static datasets.
 
+**How to Participate**
+To participate in the competition, both automatic registration and manual verification are required:
+1. Click the "Login with Huggingface" button.
+2. Click the "Register" button and complete the registration form. After this automatic registration step, the "Submission Information" page will become accessible. It provides detailed instructions on how to run local tests and submit your proposal.
+3. Access to "My Submissions" and "New Submission" will be granted after we manually review your registration and authorize your account. This process is typically completed within 24 hours.
+
 ---
 
 ## 💰 **Award** {#award}
@@ -257,8 +263,6 @@ Selected top performers will also be invited to present their methods at the wor
 Please feel free to reach out with any questions, concerns, or feedback using the address below — this is the quickest way to contact us. If your topic relates to the challenge, in addition to emailing us, consider opening a discussion on the [CodaLab forum](https://codalab.lisn.upsaclay.fr/forums/21249/).
 
 <img src="assets/imgs/feedback.png" height=32px alt="Feedback address"/> -->
-
----
 
 ## 🤵 **Organizers** {#organizers}
 <div class="container">
