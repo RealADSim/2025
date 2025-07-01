@@ -47,7 +47,7 @@ Join us on **19 Oct 2025** from **12:00 - 17:45 HST**
 - **05 Sep 2025 ---** Release Results & Submit Technical Report
 - **20 Sep 2025 ---** Technical Report Due
 
-**Please note: The technical report is not a peer-reviewed publication or formal conference paper.**
+To be eligible for awards, teams are required to submit a technical report of no more than 4 pages. Please note that these reports will not be included in the official ICCV proceedings.
 
 ---
 
