@@ -43,9 +43,9 @@ Join us on **19 Oct 2025** from **09:00 - 12:15 HST**
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
 
 - **30 Jun 2025 ---** Challenge Release
-～～- **31 Aug 2025 ---**～～ Extend to **15 Sep 2025 ---** Challenge Submission Due
-～～- **05 Sep 2025 ---**～～ Extend to **20 Sep 2025 ---** Release Results & Submit Technical Report
-～～- **20 Sep 2025 ---**～～ Extend to **05 Oct 2025 ---** Technical Report Due
+～～- **31 Aug 2025 ---**～～ - **Extend to 15 Sep 2025 ---** Challenge Submission Due
+～～- **05 Sep 2025 ---**～～ - **Extend to 20 Sep 2025 ---** Release Results & Submit Technical Report
+～～- **20 Sep 2025 ---**～～ - **Extend to 05 Oct 2025 ---** Technical Report Due
 
 To be eligible for awards, teams are required to submit a technical report of no more than 4 pages. Please note that these reports will not be included in the official ICCV proceedings.
 
