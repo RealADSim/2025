@@ -8,7 +8,7 @@ description: RealADSim @ ICCV 2025
 [<img src="assets/imgs/iccv2025.png" width="400px" alt="iccv2025"/>](https://iccv.thecvf.com/)
 {: .text-center}
 
-Join us on **19 Oct 2025** from **12:00 - 17:45 HST**
+Join us on **19 Oct 2025** from **09:00 - 12:15 HST**
 {: .text-center}
 
 **Introduction:** Given the safety concerns and high costs associated with real-world autonomous driving testing, high-fidelity simulation techniques have become crucial for advancing the capabilities of autonomous systems. While classical driving simulators offer closed-loop evaluation, they still exhibit a domain gap compared to the real world. In contrast, offline-collected driving datasets avoid this gap but struggle to provide closed-loop evaluation. Novel View Synthesis (NVS) has recently opened up new possibilities by enabling closed-loop driving simulation directly from real-world data, which has attracted great attention. This creates a promising alternative for evaluating autonomous driving algorithms in dynamic, interactive environments. However, while NVS-based simulation unlocks new opportunities, there are two key questions that are yet to be answered: 1) How well can we render? 2) How well can we drive?
@@ -43,9 +43,9 @@ Join us on **19 Oct 2025** from **12:00 - 17:45 HST**
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
 
 - **30 Jun 2025 ---** Challenge Release
-- **31 Aug 2025 ---** Challenge Submission Due
-- **05 Sep 2025 ---** Release Results & Submit Technical Report
-- **20 Sep 2025 ---** Technical Report Due
+～～- **31 Aug 2025 ---**～～ Extend to **15 Sep 2025 ---** Challenge Submission Due
+～～- **05 Sep 2025 ---**～～ Extend to **20 Sep 2025 ---** Release Results & Submit Technical Report
+～～- **20 Sep 2025 ---**～～ Extend to **05 Oct 2025 ---** Technical Report Due
 
 To be eligible for awards, teams are required to submit a technical report of no more than 4 pages. Please note that these reports will not be included in the official ICCV proceedings.
 
