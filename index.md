@@ -42,7 +42,7 @@ Join us on **19 Oct 2025** from **09:00 - 12:15 HST**
 
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
 
-**The challenge submission deadline is 23:59 AoE on September 2025 — judging will be based on submission time. ****
+**The challenge submission deadline is 23:59 AoE on September 2025 — judging will be based on submission time. **
 
 - **30 Jun 2025 ---** Challenge Release
 - **Extend to 15 Sep 2025 ---** Challenge Submission Due
