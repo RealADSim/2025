@@ -94,9 +94,9 @@ Please take this into account if you plan to join the workshop virtually.
 </figure>
 
 <figure>
-    <a href="https://jyhjinghwang.github.io/">
-    <img class="img-author" src="https://jyhjinghwang.github.io/imgs/profile.jpeg" alt="Jyh-Jing Hwang"/></a>
-    <b><br><a href="https://jyhjinghwang.github.io/">Jyh-Jing Hwang</a>
+    <a href="https://derrickxunu.github.io/">
+    <img class="img-author" src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=QW6Ro8IAAAAJ&citpid=1" alt="Runsheng Xu"/></a>
+    <b><br><a href="https://derrickxunu.github.io/">Runsheng Xu</a>
     <br>Research Scientist<br>Waymo</b>
 </figure>
 
