@@ -87,6 +87,13 @@ Please take this into account if you plan to join the workshop virtually.
 </figure>
 
 <figure>
+    <a href="https://www.linkedin.com/in/peter-kontschieder-2a6410134/">
+    <img class="img-author" src="assets/imgs/authors/peter_kontschieder.jpeg" alt="Peter Kontschieder"/></a>
+    <b><br><a href="https://www.linkedin.com/in/peter-kontschieder-2a6410134/">Peter Kontschieder</a>
+    <br>Research Director<br>Meta</b>
+</figure>
+
+<figure>
     <a href="https://yuexinma.me/">
     <img class="img-author" src="https://yuexinma.me/zxg_css/self.jpg" alt="​Yuexin Ma"/></a>
     <b><br><a href="https://yuexinma.me/">​Yuexin Ma</a>
@@ -100,12 +107,6 @@ Please take this into account if you plan to join the workshop virtually.
     <br>Research Scientist<br>Waymo</b>
 </figure>
 
-<figure>
-    <a href="https://www.linkedin.com/in/peter-kontschieder-2a6410134/">
-    <img class="img-author" src="assets/imgs/authors/peter_kontschieder.jpeg" alt="Peter Kontschieder"/></a>
-    <b><br><a href="https://www.linkedin.com/in/peter-kontschieder-2a6410134/">Peter Kontschieder</a>
-    <br>Research Director<br>Meta</b>
-</figure>
 </div>
 
 [**Yue Wang**](https://yuewang.xyz/)
