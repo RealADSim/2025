@@ -68,11 +68,11 @@ Please take this into account if you plan to join the workshop virtually.
 | Time (PDT)    | Event                                                        |
 |---------------|--------------------------------------------------------------|
 | 09:00 - 09:10 | Welcome & Introduction                                       |
-| 09:10 - 09:40 | Keynote-1 **Yue Wang**                                       |
-| 09:40 - 10:10 | Keynote-2 **Peter Kontschieder**                             |
+| 09:10 - 09:40 | Keynote-1 [**Yue Wang**](https://yuewang.xyz/)               |
+| 09:40 - 10:10 | Keynote-2 [**Peter Kontschieder**](https://www.linkedin.com/in/peter-kontschieder-2a6410134/)                             |
 | 10:10 - 11:10 | Awards / Challenge winner Presentation                       |
-| 11:10 - 11:40 | Keynote-3 **Yuexin Ma**                                      |
-| 11:40 - 12:10 | Keynote-4 **Runsheng Xu**                                    |
+| 11:10 - 11:40 | Keynote-3 [**​Yuexin Ma**](https://yuexinma.me/)              |
+| 11:40 - 12:10 | Keynote-4 [**Runsheng Xu**](https://derrickxunu.github.io/)  |
 | 12:10 - 12:15 | Closing remarks                                              |
 
 ---
@@ -112,14 +112,14 @@ Please take this into account if you plan to join the workshop virtually.
 [**Yue Wang**](https://yuewang.xyz/)
  is an Assistant Professor at USC CS, leading the Geometry, Vision, and Learning Lab. His current focus includes simulation, perception, and decision making. He obtained the Ph.D. degree from MIT EECS in 2022.
 
+[**Peter Kontschieder**](https://www.linkedin.com/in/peter-kontschieder-2a6410134/)
+ is the Director of Research at Meta. He received his PhD in 2013 from Graz University of Technology. His research interests include photorealistic 3D scene reconstruction, semantic scene understanding, image-based 3D modeling, and generative models for 3D synthesis.
+
 [**​Yuexin Ma**](https://yuexinma.me/)
  is an Assistant Professor in SIST, Shang- haiTech University. She received the PhD degree from the University of Hong Kong in 2019. Her current research focuses on scene understanding, multi-modal learning, autonomous driving, and embodied AI.
 
-[**Jyh-Jing Hwang**](https://jyhjinghwang.github.io/)
- is a Research Scientist at Waymo Research, a technical lead for end-to-end autonomous driving. He received his Ph.D. degree in Computer and Information Science from the University of Pennsylvania.
-
-[**Peter Kontschieder**](https://www.linkedin.com/in/peter-kontschieder-2a6410134/)
- is the Director of Research at Meta. He received his PhD in 2013 from Graz University of Technology. His research interests include photorealistic 3D scene reconstruction, semantic scene understanding, image-based 3D modeling, and generative models for 3D synthesis.
+[**Runsheng Xu**](https://derrickxunu.github.io/)
+ is a Senior Research Scientist at Waymo, working on Multi-modal Large Laungage Models for autonomous driving. His research interests are in the intersection of autonomous driving, large language models, diffusion models, and multi-agent intelligence.
 
 ---
 
