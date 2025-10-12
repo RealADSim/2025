@@ -68,11 +68,11 @@ Please take this into account if you plan to join the workshop virtually.
 | Time (PDT)    | Event                                                        |
 |---------------|--------------------------------------------------------------|
 | 09:00 - 09:10 | Welcome & Introduction                                       |
-| 09:10 - 09:40 | Keynote-1                                                    |
-| 09:40 - 10:10 | Keynote-2                                                    |
+| 09:10 - 09:40 | Keynote-1 Yue Wang                                           |
+| 09:40 - 10:10 | Keynote-2 Peter Kontschieder                                 |
 | 10:10 - 11:10 | Awards / Challenge winner Presentation                       |
-| 11:10 - 11:40 | Keynote-3                                                   |
-| 11:40 - 12:10 | Keynote-4                                                   |
+| 11:10 - 11:40 | Keynote-3 Yuexin Ma                                          |
+| 11:40 - 12:10 | Keynote-4 Runsheng Xu                                        |
 | 12:10 - 12:15 | Closing remarks                                              |
 
 ---
