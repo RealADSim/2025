@@ -70,7 +70,8 @@ Please take this into account if you plan to join the workshop virtually.
 | 09:00 - 09:10 | Welcome & Introduction                                       |
 | 09:10 - 09:40 | Keynote-1 [**Yue Wang**](https://yuewang.xyz/)               |
 | 09:40 - 10:10 | Keynote-2 [**Peter Kontschieder**](https://www.linkedin.com/in/peter-kontschieder-2a6410134/)                             |
-| 10:10 - 11:10 | Awards / Challenge winner Presentation                       |
+| 10:10 - 11:00 | Awards / Challenge winner Presentation                       |
+| 11:00 - 11:10 | Tea Break                                                    |
 | 11:10 - 11:40 | Keynote-3 [**​Yuexin Ma**](https://yuexinma.me/)              |
 | 11:40 - 12:10 | Keynote-4 [**Runsheng Xu**](https://derrickxunu.github.io/)  |
 | 12:10 - 12:15 | Closing remarks                                              |
