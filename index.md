@@ -379,7 +379,7 @@ const track1Data = [
 const track2Data = [
   { rank: '🥇 1', team: 'UT/NV', rc: '0.5905', hdscore: '0.419' },
   { rank: '🥈 2', team: 'NVIDIA/FDU', rc: '0.4601', hdscore: '0.4012' },
-  { rank: '🥉 3', team: 'BranchOut (BostonUniversity)', rc: '0.395', hdscore: '0.3016' },
+  { rank: '🥉 3', team: 'BranchOut', rc: '0.395', hdscore: '0.3016' },
   { rank: '💡', team: 'NVIDIA/FDU', rc: '-', hdscore: '-' },
   { rank: '4', team: 'Return0_o', rc: '0.2822', hdscore: '0.2303' },
   { rank: '5', team: 'ding', rc: '0.3539', hdscore: '0.2265' },
