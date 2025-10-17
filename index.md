@@ -219,11 +219,6 @@ Winners will be announced at the Workshop @ ICCV 2025.
 </div>
 </div>
 
-🥇 The outstanding Champion goes to team **XiaomiEV Team**.
-
-💡 Team **XiaomiEV Team** receives the Innovation Award.
-
-
 ### Track 2: Autonomous Driving in a Photorealistic Simulator
 
 <div class="table-container">
@@ -273,9 +268,7 @@ Winners will be announced at the Workshop @ ICCV 2025.
 </div>
 </div>
 
-🥇 The outstanding Champion goes to team **UT/NV**.
-
-💡 Team **NVIDIA/FDU** receives the Innovation Award.
+🥇 represents the outstanding Champion. 💡 represents the Innovation Award.
 
 
 ## 🤵 **Organizers** {#organizers}
@@ -350,14 +343,13 @@ Winners will be announced at the Workshop @ ICCV 2025.
 // Pagination functionality
 let track1Page = 1;
 let track2Page = 1;
-const teamsPerPage = 4;
+const teamsPerPage = 5;
 
 // Sample data for demonstration (you can replace with actual data)
 const track1Data = [
-  { rank: '🥇 1', team: 'XiaomiEV Team', psnr: '18.228', ssim: '0.514', lpips: '0.288', score: '0.441' },
+  { rank: '🥇💡 1', team: 'XiaomiEV Team', psnr: '18.228', ssim: '0.514', lpips: '0.288', score: '0.441' },
   { rank: '🥈 2', team: 'Qualcomm AI Research', psnr: '17.887', ssim: '0.492', lpips: '0.289', score: '0.432' },
   { rank: '🥉 3', team: 'Qvyon', psnr: '18.009', ssim: '0.496', lpips: '0.361', score: '0.413' },
-  { rank: '💡', team: 'XiaomiEV Team', psnr: '-', ssim: '-', lpips: '-', score: '-' },
   { rank: '4', team: 'MeowAndDoggy', psnr: '17.857', ssim: '0.49', lpips: '0.371', score: '0.407' },
   { rank: '5', team: 'aowei', psnr: '16.72', ssim: '0.484', lpips: '0.401', score: '0.392' },
   { rank: '6', team: 'UneasyDrive', psnr: '17.037', ssim: '0.501', lpips: '0.433', score: '0.389' },
@@ -378,9 +370,8 @@ const track1Data = [
 
 const track2Data = [
   { rank: '🥇 1', team: 'UT/NV', rc: '0.5905', hdscore: '0.419' },
-  { rank: '🥈 2', team: 'NVIDIA/FDU', rc: '0.4601', hdscore: '0.4012' },
+  { rank: '🥈💡 2', team: 'NVIDIA/FDU', rc: '0.4601', hdscore: '0.4012' },
   { rank: '🥉 3', team: 'BranchOut', rc: '0.395', hdscore: '0.3016' },
-  { rank: '💡', team: 'NVIDIA/FDU', rc: '-', hdscore: '-' },
   { rank: '4', team: 'Return0_o', rc: '0.2822', hdscore: '0.2303' },
   { rank: '5', team: 'ding', rc: '0.3539', hdscore: '0.2265' },
   { rank: '7', team: 'Poffusers', rc: '0.3362', hdscore: '0.2128' },
