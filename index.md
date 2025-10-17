@@ -268,7 +268,7 @@ Winners will be announced at the Workshop @ ICCV 2025.
 </div>
 </div>
 
-🥇 represents the outstanding Champion. 💡 represents the Innovation Award.
+🥇 represents the Outstanding Champion. 💡 represents the Innovation Award.
 
 
 ## 🤵 **Organizers** {#organizers}
