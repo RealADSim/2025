@@ -69,3 +69,165 @@ a {
   width: 175px; /* This sets each speaker block to the width of the image */
   text-align: center;
 }
+
+/* Leaderboard table styling */
+.leaderboard-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 16px;
+}
+
+.leaderboard-table th {
+  background-color: #1e3a8a;
+  border: 1px solid #dee2e6;
+  padding: 12px 8px;
+  text-align: center;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.leaderboard-table td {
+  border: 1px solid #dee2e6;
+  padding: 12px 8px;
+  text-align: center;
+}
+
+.leaderboard-table tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+.leaderboard-table tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+.leaderboard-table tr:hover {
+  background-color: #e9ecef;
+}
+
+/* Medal styling */
+.medal-gold {
+  background-color: #ffd700;
+  color: #000;
+  font-weight: bold;
+}
+
+.medal-silver {
+  background-color: #c0c0c0;
+  color: #000;
+  font-weight: bold;
+}
+
+.medal-bronze {
+  background-color: #cd7f32;
+  color: #fff;
+  font-weight: bold;
+}
+
+.medal-special {
+  background-color: #ffeb3b;
+  color: #000;
+  font-weight: bold;
+}
+
+/* Track-specific table styling */
+.track-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 16px;
+  min-width: 600px;
+}
+
+.track-table th {
+  background-color: #1e3a8a;
+  border: 1px solid #dee2e6;
+  padding: 15px 12px;
+  text-align: center;
+  font-weight: bold;
+  color: #ffffff;
+  min-width: 100px;
+}
+
+.track-table td {
+  border: 1px solid #dee2e6;
+  padding: 15px 12px;
+  text-align: center;
+  min-width: 100px;
+}
+
+.track-table tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+.track-table tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+.track-table tr:hover {
+  background-color: #e9ecef;
+}
+
+/* Specific column widths for Track 1 */
+.track1-table th:nth-child(1), .track1-table td:nth-child(1) { width: 80px; } /* Rank */
+.track1-table th:nth-child(2), .track1-table td:nth-child(2) { width: 300px; } /* Team Name */
+.track1-table th:nth-child(3), .track1-table td:nth-child(3) { width: 100px; } /* PSNR */
+.track1-table th:nth-child(4), .track1-table td:nth-child(4) { width: 100px; } /* SSIM */
+.track1-table th:nth-child(5), .track1-table td:nth-child(5) { width: 100px; } /* LPIPS */
+.track1-table th:nth-child(6), .track1-table td:nth-child(6) { width: 100px; } /* Score */
+
+/* Specific column widths for Track 2 */
+.track2-table th:nth-child(1), .track2-table td:nth-child(1) { width: 80px; } /* Rank */
+.track2-table th:nth-child(2), .track2-table td:nth-child(2) { width: 300px; } /* Team Name */
+.track2-table th:nth-child(3), .track2-table td:nth-child(3) { width: 200px; } /* RC */
+.track2-table th:nth-child(4), .track2-table td:nth-child(4) { width: 200px; } /* HD-Score */
+
+/* Pagination styling */
+.table-container {
+  position: relative;
+  width: 100%;
+  margin: 20px 0;
+}
+
+.table-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+  gap: 10px;
+}
+
+.pagination-btn {
+  background-color: #1e3a8a;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.pagination-btn:hover {
+  background-color: #1e40af;
+}
+
+.pagination-btn:disabled {
+  background-color: #9ca3af;
+  cursor: not-allowed;
+}
+
+.pagination-info {
+  background-color: #f3f4f6;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #374151;
+  border: 1px solid #d1d5db;
+}
+
+.table-pagination-controls {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
