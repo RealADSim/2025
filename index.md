@@ -219,9 +219,9 @@ Winners will be announced at the Workshop @ ICCV 2025.
 </div>
 </div>
 
-🥇 The outstanding Champion goes to team **XiaomiEV Team**. More details are in the [technical report](#) and [presentation](#).
+🥇 The outstanding Champion goes to team **XiaomiEV Team**.
 
-💡 Team **XiaomiEV Team** receives the Innovation Award. More details are in the [technical report](#) and [presentation](#).
+💡 Team **XiaomiEV Team** receives the Innovation Award.
 
 
 ### Track 2: Autonomous Driving in a Photorealistic Simulator
@@ -273,9 +273,9 @@ Winners will be announced at the Workshop @ ICCV 2025.
 </div>
 </div>
 
-🥇 The outstanding Champion goes to team **UT/NV**. More details are in the [technical report](#) and [presentation](#).
+🥇 The outstanding Champion goes to team **UT/NV**.
 
-💡 Team **NVIDIA/FDU** receives the Innovation Award. More details are in the [technical report](#) and [presentation](#).
+💡 Team **NVIDIA/FDU** receives the Innovation Award.
 
 
 ## 🤵 **Organizers** {#organizers}
