@@ -135,7 +135,7 @@ We are holding two tracks in the workshop competitions:
 - [Track 1: Extrapolated Urban Novel View Synthesis](https://huggingface.co/spaces/XDimLab/ICCV2025-RealADSim-NVS)
 
     In this track, we investigate the question: how well can we render? While NVS methods have made significant progress in generating photorealistic urban scenes, their performance still lags in extrapolated viewpoints when only a limited viewpoint is provided during training. However, extrapolated viewpoints are essential for closed-loop simulation. Improving the accuracy and consistency of NVS across diverse viewing angles is critical for ensuring that these simulators provide reliable environments for driving evaluation.
-- [Track 2: Autonomous Driving in a Photorealistic Simulator](https://huggingface.co/spaces/XDimLab/ICCV2025-RealADSim-ClosedLoop)
+- [Track 2: Closed-Loop Driving in Photorealistic Simulation](https://huggingface.co/spaces/XDimLab/ICCV2025-RealADSim-ClosedLoop)
 
     In this track, we investigate the question: how well can we drive? Despite challenges in extrapolated viewpoint rendering, existing methods enable photorealistic simulators with reasonable performance when trained on dense views. These NVS-based simulators allow autonomous driving models to be tested in a fully closed-loop manner, bridging the gap between real-world data and interactive evaluation. This shift allows for benchmarking autonomous driving algorithms under realistic conditions, overcoming the limitations of static datasets.
 
@@ -219,7 +219,7 @@ Winners will be announced at the Workshop @ ICCV 2025.
 </div>
 </div>
 
-### Track 2: Autonomous Driving in a Photorealistic Simulator
+### Track 2: Closed-Loop Driving in Photorealistic Simulation
 
 <div class="table-container">
 <table class="track-table track2-table" id="track2-table">
