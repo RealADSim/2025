@@ -65,7 +65,7 @@ The workshop will take place on **19 Oct 2025** from **09:00 - 12:15 HST**.
 > **NOTE**: Times are shown in **Hawaii Standard Time**. 
 Please take this into account if you plan to join the workshop virtually.
 
-| Time (PDT)    | Event                                                        |
+| Time (HST)    | Event                                                        |
 |---------------|--------------------------------------------------------------|
 | 09:00 - 09:10 | Welcome & Introduction                                       |
 | 09:10 - 09:40 | Keynote-1 [**Yue Wang**](https://yuewang.xyz/)               |
@@ -268,7 +268,15 @@ Winners will be announced at the Workshop @ ICCV 2025.
 </div>
 </div>
 
-🥇 represents the Outstanding Champion. 💡 represents the Innovation Award.
+🥇 represents the Outstanding Champion, 🥈 represents the Honorable Runner-Up, 🥉 represents the third place winner, and 💡 represents the Innovation Award.
+
+| Time (HST)    | Event                                                        |
+|---------------|--------------------------------------------------------------|
+| 10:10 - 10:20 | Challenge Overview and Awards                                |
+| 10:20 - 10:30 | Qualcomm AI Research                                         |
+| 10:30 - 10:40 | XiaomiEV Team                                                |
+| 10:40 - 10:50 | NVIDIA/FDU                                                   |
+| 10:50 - 11:00 | UT/NV                                                        |
 
 
 ## 🤵 **Organizers** {#organizers}
