@@ -172,6 +172,7 @@ Winners will be announced at the Workshop @ ICCV 2025.
 <th>SSIM</th>
 <th>LPIPS</th>
 <th>Score</th>
+<th>Report</th>
 </tr>
 </thead>
 <tbody>
@@ -229,6 +230,7 @@ Winners will be announced at the Workshop @ ICCV 2025.
 <th>Team Name</th>
 <th>RC</th>
 <th>HD-Score</th>
+<th>Report</th>
 </tr>
 </thead>
 <tbody>
@@ -355,37 +357,37 @@ const teamsPerPage = 5;
 
 // Sample data for demonstration (you can replace with actual data)
 const track1Data = [
-  { rank: '🥇💡 1', team: 'XiaomiEV Team', psnr: '18.228', ssim: '0.514', lpips: '0.288', score: '0.441' },
-  { rank: '🥈 2', team: 'Qualcomm AI Research', psnr: '17.887', ssim: '0.492', lpips: '0.289', score: '0.432' },
-  { rank: '🥉 3', team: 'Qvyon', psnr: '18.009', ssim: '0.496', lpips: '0.361', score: '0.413' },
-  { rank: '4', team: 'MeowAndDoggy', psnr: '17.857', ssim: '0.49', lpips: '0.371', score: '0.407' },
-  { rank: '5', team: 'aowei', psnr: '16.72', ssim: '0.484', lpips: '0.401', score: '0.392' },
-  { rank: '6', team: 'UneasyDrive', psnr: '17.037', ssim: '0.501', lpips: '0.433', score: '0.389' },
-  { rank: '7', team: 'GoGoGo', psnr: '17.626', ssim: '0.523', lpips: '0.468', score: '0.387' },
-  { rank: '8', team: 'aaamagicman', psnr: '17.207', ssim: '0.452', lpips: '0.399', score: '0.385' },
-  { rank: '9', team: 'shufudui', psnr: '16.492', ssim: '0.474', lpips: '0.414', score: '0.384' },
-  { rank: '10', team: 'pizzac', psnr: '15.837', ssim: '0.42', lpips: '0.36', score: '0.382' },
-  { rank: '11', team: 'PKUMMCAL', psnr: '16.519', ssim: '0.486', lpips: '0.442', score: '0.379' },
-  { rank: '12', team: 'UMCV', psnr: '16.23', ssim: '0.465', lpips: '0.423', score: '0.378' },
-  { rank: '13', team: 'UQMM', psnr: '16.313', ssim: '0.451', lpips: '0.416', score: '0.376' },
-  { rank: '14', team: 'LoL', psnr: '15.215', ssim: '0.439', lpips: '0.396', score: '0.374' },
-  { rank: '15', team: 'PPAP', psnr: '16.161', ssim: '0.474', lpips: '0.464', score: '0.368' },
-  { rank: '16', team: 'VIS Team', psnr: '16.016', ssim: '0.463', lpips: '0.46', score: '0.365' },
-  { rank: '17', team: 'splatman', psnr: '16.337', ssim: '0.461', lpips: '0.475', score: '0.361' },
-  { rank: '18', team: 'brightezt', psnr: '16.015', ssim: '0.449', lpips: '0.495', score: '0.35' },
-  { rank: '19', team: 'Anonymous', psnr: '14.388', ssim: '0.402', lpips: '0.438', score: '0.347' }
+  { rank: '🥇💡 1', team: 'XiaomiEV Team', psnr: '18.228', ssim: '0.514', lpips: '0.288', score: '0.441', report: '<a href="https://drive.google.com/file/d/1j28X7-55wGmJZbdigiNT9LvQetkzAO7N/view?usp=drive_link"><img src="assets/imgs/pdf-svgrepo-com.svg" style="width:16px;height:16px;vertical-align:middle;margin-right:4px;"></a>' },
+  { rank: '🥈 2', team: 'Qualcomm AI Research', psnr: '17.887', ssim: '0.492', lpips: '0.289', score: '0.432', report: '<a href="https://drive.google.com/file/d/1gELeF03nK9sm2ANpCt7wgGSPTzDhXQbV/view?usp=drive_link"><img src="assets/imgs/pdf-svgrepo-com.svg" style="width:16px;height:16px;vertical-align:middle;margin-right:4px;"></a>' },
+  { rank: '🥉 3', team: 'Qvyon', psnr: '18.009', ssim: '0.496', lpips: '0.361', score: '0.413', report: '<a href="https://drive.google.com/file/d/1FC-JHxd1KZlan4enRjd9Ziwy_VK_ecU9/view?usp=drive_link"><img src="assets/imgs/pdf-svgrepo-com.svg" style="width:16px;height:16px;vertical-align:middle;margin-right:4px;"></a>' },
+  { rank: '4', team: 'MeowAndDoggy', psnr: '17.857', ssim: '0.49', lpips: '0.371', score: '0.407', report: '-' },
+  { rank: '5', team: 'aowei', psnr: '16.72', ssim: '0.484', lpips: '0.401', score: '0.392', report: '-' },
+  { rank: '6', team: 'UneasyDrive', psnr: '17.037', ssim: '0.501', lpips: '0.433', score: '0.389', report: '-' },
+  { rank: '7', team: 'GoGoGo', psnr: '17.626', ssim: '0.523', lpips: '0.468', score: '0.387', report: '-' },
+  { rank: '8', team: 'aaamagicman', psnr: '17.207', ssim: '0.452', lpips: '0.399', score: '0.385', report: '-' },
+  { rank: '9', team: 'shufudui', psnr: '16.492', ssim: '0.474', lpips: '0.414', score: '0.384', report: '-' },
+  { rank: '10', team: 'pizzac', psnr: '15.837', ssim: '0.42', lpips: '0.36', score: '0.382', report: '-' },
+  { rank: '11', team: 'PKUMMCAL', psnr: '16.519', ssim: '0.486', lpips: '0.442', score: '0.379', report: '<a href="https://drive.google.com/file/d/1t7O8pG1LbsZkjA4bSfQzSWxA680qVKNo/view?usp=drive_link"><img src="assets/imgs/pdf-svgrepo-com.svg" style="width:16px;height:16px;vertical-align:middle;margin-right:4px;"></a>' },
+  { rank: '12', team: 'UMCV', psnr: '16.23', ssim: '0.465', lpips: '0.423', score: '0.378', report: '-' },
+  { rank: '13', team: 'UQMM', psnr: '16.313', ssim: '0.451', lpips: '0.416', score: '0.376', report: '-' },
+  { rank: '14', team: 'LoL', psnr: '15.215', ssim: '0.439', lpips: '0.396', score: '0.374', report: '-' },
+  { rank: '15', team: 'PPAP', psnr: '16.161', ssim: '0.474', lpips: '0.464', score: '0.368', report: '<a href="https://drive.google.com/file/d/1zAj3v5V_ChHrVKQcWUpAAfwsex0GZePW/view?usp=drive_link"><img src="assets/imgs/pdf-svgrepo-com.svg" style="width:16px;height:16px;vertical-align:middle;margin-right:4px;"></a>' },
+  { rank: '16', team: 'VIS Team', psnr: '16.016', ssim: '0.463', lpips: '0.46', score: '0.365', report: '-' },
+  { rank: '17', team: 'splatman', psnr: '16.337', ssim: '0.461', lpips: '0.475', score: '0.361', report: '-' },
+  { rank: '18', team: 'brightezt', psnr: '16.015', ssim: '0.449', lpips: '0.495', score: '0.35', report: '-' },
+  { rank: '19', team: 'Anonymous', psnr: '14.388', ssim: '0.402', lpips: '0.438', score: '0.347', report: '-' }
 ];
 
 const track2Data = [
-  { rank: '🥇 1', team: 'UT/NV', rc: '0.5905', hdscore: '0.419' },
-  { rank: '🥈💡 2', team: 'NVIDIA/FDU', rc: '0.4601', hdscore: '0.4012' },
-  { rank: '🥉 3', team: 'BranchOut', rc: '0.395', hdscore: '0.3016' },
-  { rank: '4', team: 'Return0_o', rc: '0.2822', hdscore: '0.2303' },
-  { rank: '5', team: 'ding', rc: '0.3539', hdscore: '0.2265' },
-  { rank: '7', team: 'Poffusers', rc: '0.3362', hdscore: '0.2128' },
-  { rank: '8', team: 'AD-DA', rc: '0.3338', hdscore: '0.21' },
-  { rank: '9', team: 'WR Team', rc: '0.3333', hdscore: '0.208' },
-  { rank: '10', team: 'Drive-Sim', rc: '0.1178', hdscore: '0.0566' }
+  { rank: '🥇 1', team: 'UT/NV', rc: '0.5905', hdscore: '0.419', report: '<a href="https://drive.google.com/file/d/1u-Hmpc304HySIXZwrptJnPQTT3fbC1Jz/view?usp=drive_link"><img src="assets/imgs/pdf-svgrepo-com.svg" style="width:16px;height:16px;vertical-align:middle;margin-right:4px;"></a>' },
+  { rank: '🥈💡 2', team: 'NVIDIA/FDU', rc: '0.4601', hdscore: '0.4012', report: '<a href="https://drive.google.com/file/d/1M9IKGcDwaOj-Pp8U25EuBXscovx3bY7C/view?usp=drive_link"><img src="assets/imgs/pdf-svgrepo-com.svg" style="width:16px;height:16px;vertical-align:middle;margin-right:4px;"></a>' },
+  { rank: '🥉 3', team: 'BranchOut', rc: '0.395', hdscore: '0.3016', report: '<a href="https://drive.google.com/file/d/189-C_Zh5rGS4S6iH4W0sn33cw5QI-79F/view?usp=drive_link"><img src="assets/imgs/pdf-svgrepo-com.svg" style="width:16px;height:16px;vertical-align:middle;margin-right:4px;"></a>' },
+  { rank: '4', team: 'Return0_o', rc: '0.2822', hdscore: '0.2303', report: '<a href="https://drive.google.com/file/d/10Yn3pF_PrdEjAiSqYvINeSWp64WPvm5z/view?usp=drive_link"><img src="assets/imgs/pdf-svgrepo-com.svg" style="width:16px;height:16px;vertical-align:middle;margin-right:4px;"></a>' },
+  { rank: '5', team: 'ding', rc: '0.3539', hdscore: '0.2265', report: '-' },
+  { rank: '7', team: 'Poffusers', rc: '0.3362', hdscore: '0.2128', report: '-' },
+  { rank: '8', team: 'AD-DA', rc: '0.3338', hdscore: '0.21', report: '-' },
+  { rank: '9', team: 'WR Team', rc: '0.3333', hdscore: '0.208', report: '-' },
+  { rank: '10', team: 'Drive-Sim', rc: '0.1178', hdscore: '0.0566', report: '-' }
 ];
 
 function updateTable(track, page) {
@@ -414,6 +416,7 @@ function updateTable(track, page) {
         <td>${team.ssim}</td>
         <td>${team.lpips}</td>
         <td>${team.score}</td>
+        <td>${team.report}</td>
       `;
     } else {
       row.innerHTML = `
@@ -421,6 +424,7 @@ function updateTable(track, page) {
         <td>${team.team}</td>
         <td>${team.rc}</td>
         <td>${team.hdscore}</td>
+        <td>${team.report}</td>
       `;
     }
   }
